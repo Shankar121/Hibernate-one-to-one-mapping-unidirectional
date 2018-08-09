@@ -1,2 +1,2 @@
 # Hibernate-one-to-one-mapping-unidirectional
-Hibernate one to one mapping unidirectional
+JAVA - Spring Hibernate one to one mapping unidirectional
